@@ -26,7 +26,7 @@ def app(tmp_path, sent_messages):
             "user": "professor",
             "password": "segredo-smtp",
             "sender": "professor@escola.com",
-            "recipient": "diogo.nascimento@institutojef.org.br",
+            "recipient": "dedemarimcha@gmail.com",
             "tls": "true",
         },
         sender=fake_sender,
